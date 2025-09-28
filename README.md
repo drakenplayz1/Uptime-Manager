@@ -14,10 +14,10 @@
 ### 🔑 Environment Variables
 
 - **TOKEN** → Your Discord Bot Token  
-  Example: `TOKEN=your_discord_bot_token_here`  
+  Example: `DISCORD_TOKEN=your_discord_bot_token_here`  
 
 - **MONGO_URI** → Your MongoDB connection string  
-  Example: `MONGO_URI=mongodb+srv://user:password@cluster.mongodb.net/db`  
+  Example: `MONGODB_URI=mongodb+srv://user:password@cluster.mongodb.net/db`  
 
 - **PREFIX** → The command prefix for your bot  
   Example: `PREFIX=!`  
