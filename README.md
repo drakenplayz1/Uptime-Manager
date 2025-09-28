@@ -11,15 +11,22 @@
 2. Rename `example.env` to `.env`.  
 3. Open the `.env` file and set the following values:  
 
-TOKEN=your_discord_bot_token  
-MONGO_URI=your_mongodb_connection_string  
-PREFIX=!  
+### 🔑 Environment Variables
+
+- **TOKEN** → Your Discord Bot Token  
+  Example: `TOKEN=your_discord_bot_token_here`  
+
+- **MONGO_URI** → Your MongoDB connection string  
+  Example: `MONGO_URI=mongodb+srv://user:password@cluster.mongodb.net/db`  
+
+- **PREFIX** → The command prefix for your bot  
+  Example: `PREFIX=!`  
 
 4. Install dependencies with the command:  
-npm install  
+   npm install  
 
 5. Start the bot with the command:  
-npm start  
+   npm start  
 
 ---
 
