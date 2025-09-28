@@ -1,6 +1,6 @@
 # 🕒 Uptime Checker Bot
 
-> A simple Discord bot made for **development servers** to check the uptime of other bots.  
+> A simple Discord bot made for **development servers** to check the uptime of other bots using `components v2`.
 > ⭐ You must give credit if you use or share this bot.  
 
 ---
